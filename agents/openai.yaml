@@ -1,0 +1,4 @@
+interface:
+  display_name: "Form into Flow"
+  short_description: "Reshape images into flowing abstract compositions"
+  default_prompt: "Use $form-into-flow to transform this image into a flowing abstract painting, preserving its identifying features and characteristic colors while integrating subject, space, and paint."
