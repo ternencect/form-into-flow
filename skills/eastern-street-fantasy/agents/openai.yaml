@@ -1,0 +1,4 @@
+interface:
+  display_name: "Eastern Street Fantasy"
+  short_description: "East Asian silhouettes, streetwear, and fantasy character design"
+  default_prompt: "Use $eastern-street-fantasy to design a courier navigating an old city district, combining East Asian garment structures with functional streetwear equipment and choosing a silhouette and palette that suit the character."
